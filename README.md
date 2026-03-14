@@ -1,4 +1,4 @@
-# NP
+# NEWSPedia
 Newspedia : A web application where you can read the headlines of all your favorite newspapers. There are headlines from newspapers in different language. You can choose your favorite language and read headlines in your language. Also You can get weather report of your city.
 
 ![Screenshot 2024-07-25 145846](https://github.com/user-attachments/assets/09fc06b3-f3de-4601-b862-b9928c8e65a0)
